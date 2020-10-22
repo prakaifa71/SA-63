@@ -18,7 +18,7 @@ const WelcomePage: FC<{}> = () => {
    <Page theme={pageTheme.home}>
     
      <Content>
-       <ContentHeader title="ระบบผู้ป่วยในการดูแลของแพทย์">
+       <ContentHeader title="ข้อมูลผู้ป่วยในการดูแลของแพทย์">
        
          <Link component={RouterLink} to="/user">
            <Button variant="contained" color="primary">

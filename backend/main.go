@@ -147,16 +147,16 @@ func main() {
     
    physicians := Physicians{
         Physician: []Physician{
-               Physician{"Prakaifa kummungkun","prakaifa@gmail.com","dsfgdh123"},
-               Physician{"Noppawan Khunprawong","Noppawan@gmail.com","dsdh123"}, 
-               Physician{"Nantiya Prabmeechai","Nantiya@gmail.com","dsfgh123"},
-               Physician{"Pradchaya Srisan","Pradchaya@gmail.com","dsfgdh3"},
-               Physician{"Parinthon Khotyotee","Parinthon@gmail.com","dsfg3"},
-               Physician{"Pongsit Rimsakul","Pongsit@gmail.com","dsf123"},
-               Physician{"Supakorn Riyapa","Supakorn@gmail.com","dsfgd3"},
-               Physician{"Nattapong Poonperm","Nattapong@gmail.com","dsh123"},
-               Physician{"Kittipong Phanugram","Kittipong@gmail.com","dsfg23"},
-               Physician{"Subancha Sawaddee","Subancha@gmail.com","dh123"},
+               Physician{"Prakaifa kummungkun","prakaifa@gmail.com","123456789"},
+               Physician{"Noppawan Khunprawong","Noppawan@gmail.com","123"}, 
+               Physician{"Nantiya Prabmeechai","Nantiya@gmail.com","1234"},
+               Physician{"Pradchaya Srisan","Pradchaya@gmail.com","12345"},
+               Physician{"Parinthon Khotyotee","Parinthon@gmail.com","123456"},
+               Physician{"Pongsit Rimsakul","Pongsit@gmail.com","1234567"},
+               Physician{"Supakorn Riyapa","Supakorn@gmail.com","12345678"},
+               Physician{"Nattapong Poonperm","Nattapong@gmail.com","23456789"},
+               Physician{"Kittipong Phanugram","Kittipong@gmail.com","124"},
+               Physician{"Subancha Sawaddee","Subancha@gmail.com","5678"},
         },
  }
 

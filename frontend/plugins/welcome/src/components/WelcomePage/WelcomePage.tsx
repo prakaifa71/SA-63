@@ -112,7 +112,7 @@ const Login = () => {
   }, [state.username, state.password]);
 
   const handleLogin = () => {
-    if (state.username === 'abc@gmail.com' && state.password === '123456789') {
+    if (state.username === 'prakaifa@gmail.com' && state.password === '123456789') {
       dispatch({
         type: 'loginSuccess',
         payload: 'Login Successfully'
